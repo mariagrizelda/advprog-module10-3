@@ -10,4 +10,4 @@ After cloning the two repositories from https://github.com/jtordgeman/YewChat/tr
 <img src="image/Screenshot 2024-05-08 at 20.14.16.png">
 <img src="image/Screenshot 2024-05-08 at 20.24.48.png">
 
-I modified the theme to follow a dark-mode color palette and added violet accents.
+I modified the theme to follow a light-mode in pink color palette and added violet accents.
