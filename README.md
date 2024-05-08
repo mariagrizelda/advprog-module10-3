@@ -1,21 +1,13 @@
-# YewChat 💬
+# Tutorial 10 - YewChat 💬
+**Maria Helga Grizelda - 2206046733**
 
-> Source code for [Let’s Build a Websocket Chat Project With Rust and Yew 0.19 🦀](https://fsjohnny.medium.com/lets-build-a-websockets-project-with-rust-and-yew-0-19-60720367399f)
+## 3.1 Original Code
+<img src="image/Screenshot 2024-05-08 at 19.46.49.png">
 
-## Install
+After cloning the two repositories from https://github.com/jtordgeman/YewChat/tree/websockets-part2 and https://github.com/jtordgeman/SimpleWebsocketServer, and while running `npm start` YewChat and the Simple WebSocket Server, we can interact between pages that have entered a username into the application. 
 
-1. Install the required toolchain dependencies:
-   ```npm i```
+## 3.2. Add Some Creativities to The Webclient
+<img src="image/Screenshot 2024-05-08 at 20.14.16.png">
+<img src="image/Screenshot 2024-05-08 at 20.24.48.png">
 
-2. Follow the YewChat post!
-
-## Branches
-
-This repository is divided to branches that correspond to the blog post sections:
-
-* main - The starter code.
-* routing - The code at the end of the Routing section.
-* components-part1 - The code at the end of the Components-Phase 1 section.
-* websockets - The code at the end of the Hello Websockets! section.
-* components-part2 - The code at the end of the Components-Phase 2 section.
-* websockets-part2 - The code at the end of the WebSockets-Phase 2 section.
+I modified the theme to follow a dark-mode color palette and added violet accents.
